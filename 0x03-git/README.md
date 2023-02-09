@@ -1,1 +1,1 @@
-This directory's README.md file
+## Git is used to kickstart the ALX-SE Program :octocat:
