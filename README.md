@@ -1,2 +1,1 @@
-# alx-zero_day
-0x03. Git :octocat:
+## We kickstart the Program with a project on Git :tada:
