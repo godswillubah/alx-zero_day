@@ -1,1 +1,1 @@
-### We kickstart the Program with a project on Git  :octocat:
+# alx-zero_day
