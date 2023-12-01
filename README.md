@@ -1,3 +1,3 @@
-## I got accepted to the ALX Software Engineering Programme [@alx_africa](https://www.alxafrica.com/) :tada:
+![img](https://assests.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 
-![image](alxse.png)
+# ALX Zero Day
